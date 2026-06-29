@@ -1,0 +1,6 @@
+{
+  "name": "The Life Saver Productivity Coach",
+  "description": "An AI-powered productivity companion that actively helps you crush deadlines, optimize schedules, block distractions, and stay motivated.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

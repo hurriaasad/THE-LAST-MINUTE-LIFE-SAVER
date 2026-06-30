@@ -131,7 +131,7 @@ export default function AuthScreens({ onLoginSuccess, currentUsername }: AuthScr
           <div className="mx-auto mb-4 flex h-14 w-14 items-center justify-center rounded-2xl bg-gradient-to-tr from-rose-500 to-amber-500 shadow-lg shadow-rose-500/20">
             <Shield className="h-7 w-7 text-white" />
           </div>
-          <h1 className="text-2xl font-bold tracking-tight text-white">The Last-Minute Life Saver</h1>
+          <h1 className="text-2xl font-bold tracking-tight text-white">LifeSaver AI</h1>
           <p className="mt-2 text-sm text-slate-400">Your AI-Powered Premium Productivity Companion</p>
         </div>
 

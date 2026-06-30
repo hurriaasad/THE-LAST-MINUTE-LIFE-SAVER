@@ -19,7 +19,7 @@ export default function LandingPage({ onStartDemo, onGoToAuth }: LandingPageProp
             <div className="flex h-10 w-10 items-center justify-center rounded-xl bg-gradient-to-tr from-rose-500 to-amber-500 shadow-md shadow-rose-500/10">
               <Shield className="h-5 w-5 text-white" />
             </div>
-            <span className="text-lg font-bold tracking-tight text-white">The Last-Minute Life Saver</span>
+            <span className="text-lg font-bold tracking-tight text-white">LifeSaver AI</span>
           </div>
 
           <nav className="hidden md:flex items-center gap-8 text-sm font-medium text-slate-400">
@@ -111,7 +111,7 @@ export default function LandingPage({ onStartDemo, onGoToAuth }: LandingPageProp
       <section id="how-it-works" className="px-6 py-20 max-w-7xl mx-auto border-t border-slate-900">
         <div className="text-center max-w-3xl mx-auto mb-16">
           <h2 className="text-3xl sm:text-4xl font-extrabold text-white">Reminders vs. Active Rescue</h2>
-          <p className="mt-4 text-slate-400">Traditional apps wait for you to fail. The Last-Minute Life Saver actively intervenes so you finish ahead of schedule.</p>
+          <p className="mt-4 text-slate-400">Traditional apps wait for you to fail. LifeSaver AI actively intervenes so you finish ahead of schedule.</p>
         </div>
 
         <div className="grid md:grid-cols-2 gap-8 max-w-5xl mx-auto">
@@ -381,7 +381,7 @@ export default function LandingPage({ onStartDemo, onGoToAuth }: LandingPageProp
       <section id="faq" className="px-6 py-20 max-w-4xl mx-auto">
         <div className="text-center mb-16">
           <h2 className="text-3xl font-extrabold text-white">Frequently Asked Questions</h2>
-          <p className="mt-4 text-slate-400">Everything you need to know about The Last-Minute Life Saver.</p>
+          <p className="mt-4 text-slate-400">Everything you need to know about LifeSaver AI.</p>
         </div>
 
         <div className="space-y-6">
@@ -424,9 +424,9 @@ export default function LandingPage({ onStartDemo, onGoToAuth }: LandingPageProp
             <div className="flex h-8 w-8 items-center justify-center rounded-lg bg-gradient-to-tr from-rose-500 to-amber-500 text-white">
               <Shield className="h-4 w-4" />
             </div>
-            <span className="font-bold text-slate-300">The Last-Minute Life Saver</span>
+            <span className="font-bold text-slate-300">LifeSaver AI</span>
           </div>
-          <p>© 2026 The Last-Minute Life Saver Inc. All rights reserved.</p>
+          <p>© 2026 LifeSaver AI Inc. All rights reserved.</p>
           <div className="flex gap-6">
             <a href="#" className="hover:text-slate-300">Privacy Policy</a>
             <a href="#" className="hover:text-slate-300">Terms of Service</a>

@@ -24,7 +24,7 @@ export default function AiAssistant({
   const [messages, setMessages] = useState<Message[]>([
     {
       role: "model",
-      text: "### 👋 Hello! I am your Last-Minute Life Saver Coach.\n\nI don't just send notifications—I actively help you complete your assignments and crush looming deadlines.\n\nTell me what you are working on, or try one of these suggestion prompts:\n- *'I have a biology assignment due tomorrow at 9 AM and haven't started.'*\n- *'I'm procrastinating and feeling super stuck.'*\n- *'I'm stressed and need to activate Emergency Mode.'*",
+      text: "### 👋 Hello! I am your LifeSaver AI Coach.\n\nI don't just send notifications—I actively help you complete your assignments and crush looming deadlines.\n\nTell me what you are working on, or try one of these suggestion prompts:\n- *'I have a biology assignment due tomorrow at 9 AM and haven't started.'*\n- *'I'm procrastinating and feeling super stuck.'*\n- *'I'm stressed and need to activate Emergency Mode.'*",
     },
   ]);
   const [input, setInput] = useState("");

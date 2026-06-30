@@ -576,7 +576,7 @@ export default function App() {
                 <div className="flex h-9 w-9 items-center justify-center rounded-xl bg-gradient-to-tr from-rose-500 to-amber-500 text-white shadow-lg shadow-rose-500/20">
                   <Shield className="h-4.5 w-4.5" />
                 </div>
-                <span className="font-bold text-sm text-slate-100 tracking-tight font-display bg-gradient-to-r from-white via-slate-200 to-slate-400 bg-clip-text text-transparent">The Life Saver</span>
+                <span className="font-bold text-sm text-slate-100 tracking-tight font-display bg-gradient-to-r from-white via-slate-200 to-slate-400 bg-clip-text text-transparent">LifeSaver AI</span>
               </div>
 
               {/* Profile Card Summary with Smart Notification Bell */}
